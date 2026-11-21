@@ -34,5 +34,8 @@ I'm continuously learning and building projects to improve my technical skills a
 
 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/imen-ben-amor-699395253/
+
 💻 GitHub: imen-ba
+
+
  Always learning, building, and exploring new technologies! 🚀
