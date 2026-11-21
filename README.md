@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 Imen Ben Amor
+Welcome to my GitHub profile!
 
-<!--
-**imen-ba/imen-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student specializing in Cloud and Infrastructure Management, passionate about cloud computing, infrastructure automation, networking, and DevOps.
+I'm continuously learning and building projects to improve my technical skills and explore new technologies.
+🚀 Technical Skills
 
-Here are some ideas to get you started:
+☁️ Cloud Computing
+-Amazon Web Services (AWS)
+-OpenStack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ DevOps & Infrastructure
+-Terraform
+-Docker
+-Podman
+-Linux 
+-Infrastructure as Code (IaC)
+
+🌐 Networking & Security
+-Computer Networks
+-pfSense
+-UTM Solutions
+-Network Administration
+
+💻 Programming & Automation
+-Boto3
+-Bash
+-Angular
+-Django
+
+🗄️ Databases
+-PostgreSQL
+-Oracle
+
+📫 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/imen-ben-amor-699395253/
+💻 GitHub: imen-ba
+ Always learning, building, and exploring new technologies! 🚀
