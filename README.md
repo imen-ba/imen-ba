@@ -7,50 +7,15 @@ I'm continuously learning and building projects to improve my technical skills a
 
 🚀 Technical Skills
 
-☁️ Cloud Computing
+☁️ Cloud Computing: Amazon Web Services (AWS) | OpenStack
 
--Amazon Web Services (AWS)
+⚙️ DevOps & Infrastructure: Terraform | Docker | Podman | Linux | Infrastructure as Code (IaC)
 
--OpenStack
+🌐 Networking & Security: Computer Networks | pfSense | UTM Solutions | Network Administration
 
-⚙️ DevOps & Infrastructure
+💻 Programming & Automation: Boto3 | Bash | Angular | Django
 
--Terraform
-
--Docker
-
--Podman
-
--Linux 
-
--Infrastructure as Code (IaC)
-
-🌐 Networking & Security
-
--Computer Networks
-
--pfSense
-
--UTM Solutions
-
--Network Administration
-
-💻 Programming & Automation
-
--Boto3
-
--Bash
-
--Angular
-
--Django
-
-
-🗄️ Databases
-
--PostgreSQL
-
--Oracle
+🗄️ Databases: PostgreSQL | Oracle
 
 
 📫 Connect With Me
